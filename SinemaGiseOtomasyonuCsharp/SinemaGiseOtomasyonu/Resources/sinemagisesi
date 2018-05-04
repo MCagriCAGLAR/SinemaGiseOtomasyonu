@@ -1,0 +1,175 @@
+/*
+SQLyog Ultimate v9.60 
+MySQL - 5.7.9 : Database - sinemagisesi
+*********************************************************************
+*/
+
+/*!40101 SET NAMES utf8 */;
+
+/*!40101 SET SQL_MODE=''*/;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`sinemagisesi` /*!40100 DEFAULT CHARACTER SET latin5 */;
+
+USE `sinemagisesi`;
+
+/*Table structure for table `bilet` */
+
+DROP TABLE IF EXISTS `bilet`;
+
+CREATE TABLE `bilet` (
+  `biletID` int(3) NOT NULL AUTO_INCREMENT,
+  `filmID` int(3) NOT NULL,
+  `salonID` int(11) NOT NULL,
+  `seansID` int(3) NOT NULL,
+  `biletTarih` datetime NOT NULL,
+  `koltukNo` varchar(5) NOT NULL,
+  `satisID` int(3) DEFAULT NULL,
+  PRIMARY KEY (`biletID`),
+  KEY `bilet_ibfk_1` (`salonID`),
+  KEY `bilet_ibfk_2` (`seansID`),
+  KEY `bilet_ibfk_3` (`filmID`),
+  KEY `bilet_ibfk_4` (`satisID`),
+  CONSTRAINT `bilet_ibfk_1` FOREIGN KEY (`salonID`) REFERENCES `salon` (`salonID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_2` FOREIGN KEY (`seansID`) REFERENCES `seans` (`seansID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_3` FOREIGN KEY (`filmID`) REFERENCES `filmler` (`filmID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_4` FOREIGN KEY (`satisID`) REFERENCES `satis` (`satisID`) ON DELETE CASCADE ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `bilet` */
+
+/*Table structure for table `calisan` */
+
+DROP TABLE IF EXISTS `calisan`;
+
+CREATE TABLE `calisan` (
+  `calisanID` int(3) NOT NULL AUTO_INCREMENT,
+  `calisanAdi` varchar(30) NOT NULL,
+  `calisanSoyadi` varchar(40) NOT NULL,
+  `calisanTCKN` char(11) NOT NULL,
+  `calisanLoginID` varchar(30) NOT NULL,
+  `calisanPassword` varchar(100) NOT NULL,
+  `calisanDTarihi` datetime NOT NULL,
+  PRIMARY KEY (`calisanID`),
+  UNIQUE KEY `UNQ_LoginID` (`calisanLoginID`,`calisanTCKN`,`calisanPassword`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `calisan` */
+
+/*Table structure for table `filmler` */
+
+DROP TABLE IF EXISTS `filmler`;
+
+CREATE TABLE `filmler` (
+  `filmID` int(3) NOT NULL AUTO_INCREMENT,
+  `filmAdi` varchar(50) NOT NULL,
+  `filmTuru` varchar(30) NOT NULL,
+  `film3D` varchar(10) NOT NULL,
+  `filmSure` varchar(3) NOT NULL,
+  `filmYerli` varchar(10) NOT NULL,
+  PRIMARY KEY (`filmID`)
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=latin5;
+
+/*Data for the table `filmler` */
+
+insert  into `filmler`(`filmID`,`filmAdi`,`filmTuru`,`film3D`,`filmSure`,`filmYerli`) values (3,'Esaretin Bedeli','Dram','Hayır','142','Yabancı'),(4,'Yüzüklerin Efendisi','Macera','Hayır','150','Yabancı'),(5,'Batman vs Süperman','Fantastik','Evet','127','Yabancı'),(6,'Düğün Dernek 2','Komedi','Hayır','117','Yerli'),(7,'Kaçma Birader','Komedi','Hayır','110','Yerli'),(11,'Unutursam Fisilda','Romantik','Hayir','105','Yerli'),(13,'Delibal','Romantik','Hayir','112','Yerli'),(14,'Kaptan Amerika: Kahramanlarin Savasi','Aksiyon','Evet','148','Yabanci');
+
+/*Table structure for table `kampanya` */
+
+DROP TABLE IF EXISTS `kampanya`;
+
+CREATE TABLE `kampanya` (
+  `kampanyaID` int(3) NOT NULL AUTO_INCREMENT,
+  `kampanyaAdi` varchar(50) NOT NULL,
+  `kampanyaOran` int(11) NOT NULL,
+  PRIMARY KEY (`kampanyaID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `kampanya` */
+
+/*Table structure for table `musteri` */
+
+DROP TABLE IF EXISTS `musteri`;
+
+CREATE TABLE `musteri` (
+  `musteriTCKN` char(11) NOT NULL,
+  `musteriAdi` varchar(30) NOT NULL,
+  `musteriSoyadi` varchar(40) NOT NULL,
+  PRIMARY KEY (`musteriTCKN`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `musteri` */
+
+/*Table structure for table `salon` */
+
+DROP TABLE IF EXISTS `salon`;
+
+CREATE TABLE `salon` (
+  `salonID` int(11) NOT NULL AUTO_INCREMENT,
+  `salonAdi` varchar(50) NOT NULL,
+  `salonKapasite` int(11) NOT NULL,
+  PRIMARY KEY (`salonID`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin5;
+
+/*Data for the table `salon` */
+
+insert  into `salon`(`salonID`,`salonAdi`,`salonKapasite`) values (1,'Salon Şelale',30),(2,'Salon Irmak',40),(3,'Salon Deniz',50),(4,'Salon Ada',35);
+
+/*Table structure for table `satis` */
+
+DROP TABLE IF EXISTS `satis`;
+
+CREATE TABLE `satis` (
+  `satisID` int(3) NOT NULL,
+  `calisanID` int(3) DEFAULT NULL,
+  `satisTarihi` datetime NOT NULL,
+  `musteriTCKN` char(11) NOT NULL,
+  `satisTurID` int(3) NOT NULL,
+  `satisIndirim` int(11) DEFAULT NULL,
+  `kampanyaID` int(3) DEFAULT NULL,
+  PRIMARY KEY (`satisID`),
+  UNIQUE KEY `musteriTCKN` (`musteriTCKN`),
+  KEY `satis_ibfk_1` (`calisanID`),
+  KEY `satis_ibfk_3` (`satisTurID`),
+  KEY `satis_ibfk_4` (`kampanyaID`),
+  CONSTRAINT `satis_ibfk_1` FOREIGN KEY (`calisanID`) REFERENCES `calisan` (`calisanID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_3` FOREIGN KEY (`satisTurID`) REFERENCES `satistur` (`satisTurID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_4` FOREIGN KEY (`kampanyaID`) REFERENCES `kampanya` (`kampanyaID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_5` FOREIGN KEY (`musteriTCKN`) REFERENCES `musteri` (`musteriTCKN`) ON DELETE CASCADE ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `satis` */
+
+/*Table structure for table `satistur` */
+
+DROP TABLE IF EXISTS `satistur`;
+
+CREATE TABLE `satistur` (
+  `satisTurID` int(3) NOT NULL,
+  `satisTurAdi` varchar(50) NOT NULL,
+  PRIMARY KEY (`satisTurID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5;
+
+/*Data for the table `satistur` */
+
+/*Table structure for table `seans` */
+
+DROP TABLE IF EXISTS `seans`;
+
+CREATE TABLE `seans` (
+  `seansID` int(11) NOT NULL AUTO_INCREMENT,
+  `seansSaati` time NOT NULL,
+  PRIMARY KEY (`seansID`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=latin5;
+
+/*Data for the table `seans` */
+
+insert  into `seans`(`seansID`,`seansSaati`) values (1,'14:00:00'),(2,'16:30:00'),(3,'19:00:00'),(5,'21:45:00');
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;

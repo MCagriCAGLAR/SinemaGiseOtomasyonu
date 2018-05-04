@@ -1,0 +1,139 @@
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\OZAN\Documents\Visual Studio 2015\Projects\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\W1nchester\Desktop\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\OZAN\Desktop\VTYS-Proje_2\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\OZAN\Desktop\son hali\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Desktop\son hali\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\son hali\VTYS Proje\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.biletIptal.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.calisanPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminCalisanEkleSil.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminYonlendirme.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminCalisanEkleSil.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminYonlendirme.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.biletIptal.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.calisanPaneli.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\OZAN\Downloads\Compressed\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminCalisanEkleSil.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminYonlendirme.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.biletIptal.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.calisanPaneli.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___3\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu___\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\OZAN\Desktop\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe.config
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.exe
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\SinemaGiseOtomasyonu.pdb
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminCalisanEkleSil.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminGirisi.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.adminYonlendirme.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.biletIptal.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.BiletSatis.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.calisanPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Form1.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.musteriPaneli.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.Properties.Resources.resources
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\W1nchester\Desktop\C# calisma\SinemaGiseOtomasyonu_19_05_2016\SinemaGiseOtomasyonu__\SinemaGiseOtomasyonu\obj\Debug\SinemaGiseOtomasyonu.fragman.resources

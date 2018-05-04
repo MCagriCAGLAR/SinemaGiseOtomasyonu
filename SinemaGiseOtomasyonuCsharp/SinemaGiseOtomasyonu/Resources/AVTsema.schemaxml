@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemadesigner version="6.5">
+<source>
+<database charset="latin5" collation="latin5_turkish_ci">sinemagisesi</database>
+</source>
+<canvas zoom="100">
+<tables>
+<table name="bilet" view="colnames">
+<left>349</left>
+<top>145</top>
+<width>99</width>
+<height>197</height>
+<sql_create_table>CREATE TABLE `bilet` (
+  `biletID` int(3) NOT NULL AUTO_INCREMENT,
+  `filmID` int(3) NOT NULL,
+  `salonID` int(11) NOT NULL,
+  `seansID` int(3) NOT NULL,
+  `biletTarih` datetime NOT NULL,
+  `koltukNo` varchar(5) NOT NULL,
+  `satisID` int(3) DEFAULT NULL,
+  PRIMARY KEY (`biletID`),
+  KEY `bilet_ibfk_1` (`salonID`),
+  KEY `bilet_ibfk_2` (`seansID`),
+  KEY `bilet_ibfk_3` (`filmID`),
+  KEY `bilet_ibfk_4` (`satisID`),
+  CONSTRAINT `bilet_ibfk_1` FOREIGN KEY (`salonID`) REFERENCES `salon` (`salonID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_2` FOREIGN KEY (`seansID`) REFERENCES `seans` (`seansID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_3` FOREIGN KEY (`filmID`) REFERENCES `filmler` (`filmID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `bilet_ibfk_4` FOREIGN KEY (`satisID`) REFERENCES `satis` (`satisID`) ON DELETE CASCADE ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="calisan" view="colnames">
+<left>580</left>
+<top>388</top>
+<width>139</width>
+<height>160</height>
+<sql_create_table>CREATE TABLE `calisan` (
+  `calisanID` int(3) NOT NULL AUTO_INCREMENT,
+  `calisanAdi` varchar(30) NOT NULL,
+  `calisanSoyadi` varchar(40) NOT NULL,
+  `calisanTCKN` char(11) NOT NULL,
+  `calisanLoginID` varchar(30) NOT NULL,
+  `calisanPassword` varchar(100) NOT NULL,
+  `calisanDTarihi` datetime NOT NULL,
+  PRIMARY KEY (`calisanID`),
+  UNIQUE KEY `UNQ_LoginID` (`calisanLoginID`,`calisanTCKN`,`calisanPassword`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="filmler" view="colnames">
+<left>169</left>
+<top>6</top>
+<width>94</width>
+<height>180</height>
+<sql_create_table>CREATE TABLE `filmler` (
+  `filmID` int(3) NOT NULL AUTO_INCREMENT,
+  `filmAdi` varchar(50) NOT NULL,
+  `filmTuru` varchar(30) NOT NULL,
+  `film3D` varchar(10) NOT NULL,
+  `filmSure` varchar(3) NOT NULL,
+  `filmYerli` varchar(10) NOT NULL,
+  PRIMARY KEY (`filmID`)
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="kampanya" view="colnames">
+<left>336</left>
+<top>397</top>
+<width>134</width>
+<height>118</height>
+<sql_create_table>CREATE TABLE `kampanya` (
+  `kampanyaID` int(3) NOT NULL AUTO_INCREMENT,
+  `kampanyaAdi` varchar(50) NOT NULL,
+  `kampanyaOran` int(11) NOT NULL,
+  PRIMARY KEY (`kampanyaID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="musteri" view="colnames">
+<left>484</left>
+<top>4</top>
+<width>128</width>
+<height>129</height>
+<sql_create_table>CREATE TABLE `musteri` (
+  `musteriTCKN` char(11) NOT NULL,
+  `musteriAdi` varchar(30) NOT NULL,
+  `musteriSoyadi` varchar(40) NOT NULL,
+  PRIMARY KEY (`musteriTCKN`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="salon" view="colnames">
+<left>744</left>
+<top>9</top>
+<width>125</width>
+<height>129</height>
+<sql_create_table>CREATE TABLE `salon` (
+  `salonID` int(11) NOT NULL AUTO_INCREMENT,
+  `salonAdi` varchar(50) NOT NULL,
+  `salonKapasite` int(11) NOT NULL,
+  PRIMARY KEY (`salonID`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="satis" view="colnames">
+<left>784</left>
+<top>180</top>
+<width>121</width>
+<height>197</height>
+<sql_create_table>CREATE TABLE `satis` (
+  `satisID` int(3) NOT NULL,
+  `calisanID` int(3) DEFAULT NULL,
+  `satisTarihi` datetime NOT NULL,
+  `musteriTCKN` char(11) NOT NULL,
+  `satisTurID` int(3) NOT NULL,
+  `satisIndirim` int(11) DEFAULT NULL,
+  `kampanyaID` int(3) DEFAULT NULL,
+  PRIMARY KEY (`satisID`),
+  UNIQUE KEY `musteriTCKN` (`musteriTCKN`),
+  KEY `satis_ibfk_1` (`calisanID`),
+  KEY `satis_ibfk_3` (`satisTurID`),
+  KEY `satis_ibfk_4` (`kampanyaID`),
+  CONSTRAINT `satis_ibfk_1` FOREIGN KEY (`calisanID`) REFERENCES `calisan` (`calisanID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_3` FOREIGN KEY (`satisTurID`) REFERENCES `satistur` (`satisTurID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_4` FOREIGN KEY (`kampanyaID`) REFERENCES `kampanya` (`kampanyaID`) ON DELETE CASCADE ON UPDATE NO ACTION,
+  CONSTRAINT `satis_ibfk_5` FOREIGN KEY (`musteriTCKN`) REFERENCES `musteri` (`musteriTCKN`) ON DELETE CASCADE ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="satistur" view="colnames">
+<left>95</left>
+<top>340</top>
+<width>109</width>
+<height>112</height>
+<sql_create_table>CREATE TABLE `satistur` (
+  `satisTurID` int(3) NOT NULL,
+  `satisTurAdi` varchar(50) NOT NULL,
+  PRIMARY KEY (`satisTurID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+<table name="seans" view="colnames">
+<left>32</left>
+<top>196</top>
+<width>108</width>
+<height>112</height>
+<sql_create_table>CREATE TABLE `seans` (
+  `seansID` int(11) NOT NULL AUTO_INCREMENT,
+  `seansSaati` time NOT NULL,
+  PRIMARY KEY (`seansID`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin5</sql_create_table>
+</table>
+</tables>
+</canvas>
+</schemadesigner>
