@@ -32,7 +32,6 @@ Admin Girişinde güvenliği sağlamak amacıyla bir kullanıcı girişi bulunma
 # Admin Çalışan Ekle/Sil Görüntüle
 “Çalışan Ekle/Sil” panelinde ise giriş yapan admin yeni bir çalışan ekleyebilir veya bir çalışanı işten çıkarabilecektir.
 
-![Çalışan Ekle](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/calisanEkle.jpg "Çalışan Ekle/Sil")
 
 # Çalışan Girişi
 Çalışan giriş panelinde de güvenliği sağlamak amacıyla bir giriş ekranı bulunmaktadır.
