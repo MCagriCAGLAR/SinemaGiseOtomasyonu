@@ -3,6 +3,7 @@ Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühend
 
 # Programı Çalıştırmak İçin Gerekli Olan Yazılımlar
 - WampServer, Link -> http://www.wampserver.com/en/
+Uygulamayı çalıştırmadan önce WampServer tam çalışır durumda olmalıdır. ( Yeşil Yanmalı, sarı veya kırmızı yanarsa çalışmaz. )
 - Visual Studio 2017 Community Edition -> https://www.visualstudio.com/tr/thank-you-downloading-visual-studio/?sku=Community&rel=15
 - SinemaGiseOtomasyonu\Resources klasöründe bulunan sinemagisesi.sql dosyasının bilgisayarınızda bulunması gerekir.
 
