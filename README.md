@@ -3,7 +3,7 @@ Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühend
 
 # Programı Çalıştırmak İçin Gerekli Olan Yazılımlar
 - WampServer, Link -> http://www.wampserver.com/en/
-- Visual Studio
+- Visual Studio 2017 Community Edition -> https://www.visualstudio.com/tr/thank-you-downloading-visual-studio/?sku=Community&rel=15
 - SinemaGiseOtomasyonu\Resources klasöründe bulunan sinemagisesi.sql dosyasının bilgisayarınızda bulunması gerekir.
 
 # MySQL Veritabanının Oluşturulması
@@ -12,7 +12,7 @@ Otomasyonda satis,satistur,kampanya,filmler,resimler,calisan,seans,bilet,resimle
 ![MainMenus](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/veritabani.jpg "Main Menus")
 
 
-# ANA MENÜ
+## ANA MENÜ
 Otomasyonumuzda ilk olarak açılan pencerede “Admin Girişi” ve “Çalışan Girişi ” olmak üzere iki kısım vardır.
 
 Admin Girişinde güvenliği sağlamak amacıyla bir kullanıcı girişi bulunmaktadır.Girişi sağlayan personel kullanıcı adını ve şifresini girerek panele ulaşır. Daha sonra karşısına çıkan ekrandan Film,Salon,Seans “Ekle/Sil” veya Çalışan “Ekle/Sil” butonlarına ulaşır.
@@ -32,6 +32,7 @@ Admin Girişinde güvenliği sağlamak amacıyla bir kullanıcı girişi bulunma
 # Admin Çalışan Ekle/Sil Görüntüle
 “Çalışan Ekle/Sil” panelinde ise giriş yapan admin yeni bir çalışan ekleyebilir veya bir çalışanı işten çıkarabilecektir.
 
+![Admin Çalışan Ekleme](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/calisanEkle.jpg "Admin Çalışan Ekle/Sil")
 
 # Çalışan Girişi
 Çalışan giriş panelinde de güvenliği sağlamak amacıyla bir giriş ekranı bulunmaktadır.
