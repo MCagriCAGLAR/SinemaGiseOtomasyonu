@@ -82,7 +82,7 @@ Bu sayfada önceden alınan biletin id’si ekrana girilerek biletin iptali ger�
 Salondan alınan bilgiler ile birlikte bilet kesim işlemi bu ekrandan gerçekleşir.Biletimizi saat kaçta aldığımız,seans ve salon adlarıyla birlikte bu ekranda yazılıdır.
 
 
-![Bilet Kesme](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/biletiptal.jpg "Bilet Kesme İşlemleri")
+![Bilet Kesme](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/biletKesme.jpg "Bilet Kesme İşlemleri")
 
 
 
