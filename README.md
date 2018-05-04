@@ -10,7 +10,7 @@ Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühend
 Otomasyonda satis,satistur,kampanya,filmler,resimler,calisan,seans,bilet,resimler,filmtur,admin ve salon olmak üzere toplam 12 adet tablo bulunmaktadır.Tablolar birbirleriyle ilişkilendirilmiştir. Aşağıda Database Schema Dosyasının görünümü verilmiştir.
 
 
-![MainMenus](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/veritabani.jpg "Main Menus")
+![Veritabanı](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/veritabani.jpg "Veritabanı Şeması")
 
 
 # ANA MENÜ
@@ -19,7 +19,7 @@ Otomasyonumuzda ilk olarak açılan pencerede “Admin Girişi” ve “Çalış
 Admin Girişinde güvenliği sağlamak amacıyla bir kullanıcı girişi bulunmaktadır.Girişi sağlayan personel kullanıcı adını ve şifresini girerek panele ulaşır. Daha sonra karşısına çıkan ekrandan Film,Salon,Seans “Ekle/Sil” veya Çalışan “Ekle/Sil” butonlarına ulaşır.
 
 
-![MainMenus](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/AnaMenu.jpg "Main Menus")
+![Ana Menü](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/AnaMenu.jpg "Ana Menü")
 
 
 # Admin Girişi
