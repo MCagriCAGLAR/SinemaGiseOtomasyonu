@@ -84,6 +84,9 @@ Salondan alınan bilgiler ile birlikte bilet kesim işlemi bu ekrandan gerçekle
 
 ![Bilet Kesme](https://github.com/MCagriCAGLAR/SinemaGiseOtomasyonu/blob/master/biletKesme.jpg "Bilet Kesme İşlemleri")
 
+# İletişim - Contact
+- disasterburn@gmail.com
+
 
 # TÜM HAKLARI SAKLIDIR. ©
 Bazı görsel amaçlı kullanılan resimler açık kaynak sitelerden alınmıştır.
